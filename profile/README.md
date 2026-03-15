@@ -1,8 +1,9 @@
 ## Hello and welcome! 👋
 
-We'll have our first meetup [on Wednesday,
+We'd like to invite you to our first meetup [on Wednesday,
 2026-03-25](https://github.com/rust-dresden/rust-dresden/discussions/1#discussioncomment-15910808).
-We've got a location, talks, and a sponsoring from Ferrous Systems. Thank you all very much!
+We've got a location, talks, and a sponsoring from Ferrous Systems. Thank you
+all very much!
 
 We are still figuring out the registration, so stay tuned for an update in the
 [announcement](https://github.com/rust-dresden/rust-dresden/discussions/1). Or
