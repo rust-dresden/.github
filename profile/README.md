@@ -1,10 +1,12 @@
 ## Hello and welcome! 👋
 
-We're are going to reboot a Dresden Rust community starting early in 2026. We
-cordially invite you to join and we will announce our first meeting here. Stay
-tuned and subscribe to our
-[announcement](https://github.com/rust-dresden/rust-dresden/discussions/1) for
-updates.
+We'll have our first meetup [on Wednesday,
+2026-03-25](https://github.com/rust-dresden/rust-dresden/discussions/1#discussioncomment-15910808).
+We've got a location, talks, and a sponsoring from Ferrous Systems. Thank you all very much!
+
+We are still figuring out the registration, so stay tuned for an update in the
+[announcement](https://github.com/rust-dresden/rust-dresden/discussions/1). Or
+even subscribe to that discussion to get notified.
 
 In the meantime, feel free to ask anything or tell us what you would love to
 talk about at a meetup by [starting a
