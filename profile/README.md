@@ -1,6 +1,6 @@
 ## Hello and welcome! 👋
 
-The [first Rust Dresden](https://github.com/rust-dresden/rust-dresden/discussions/1) meetup will take place on Wednesday, 2026-03-25 and we'd like to invite you to join us:
+The [first Rust Dresden](https://github.com/rust-dresden/rust-dresden/discussions/7) meetup will take place on Wednesday, 2026-03-25 and we'd like to invite you to join us:
 
 * March 25th 2026
 * 18:00 - 21:00 CET
