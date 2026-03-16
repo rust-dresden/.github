@@ -1,18 +1,21 @@
 ## Hello and welcome! 👋
 
-We'd like to invite you to our first meetup [on Wednesday,
-2026-03-25](https://github.com/rust-dresden/rust-dresden/discussions/1#discussioncomment-15910808).
-We've got a location, talks, and a sponsoring from Ferrous Systems. Thank you
-all very much!
+The [first Rust Dresden](https://github.com/rust-dresden/rust-dresden/discussions/1) meetup will take place on Wednesday, 2026-03-25 and we'd like to invite you to join us:
 
-We are still figuring out the registration, so stay tuned for an update in the
-[announcement](https://github.com/rust-dresden/rust-dresden/discussions/1). Or
-even subscribe to that discussion to get notified.
+* March 25th 2026
+* 18:00 - 21:00 CET
+* At Barkhausen Institut, Schweriner Straße 1 (see their [directions](https://www.barkhauseninstitut.org/ueber-uns/kontakt) on how to get there)
 
-In the meantime, feel free to ask anything or tell us what you would love to
-talk about at a meetup by [starting a
-discussion](https://github.com/rust-dresden/rust-dresden/discussions/new/choose)
-or chime in at our Matrix chat at
-[#rust-dresden:matrix.org](https://matrix.to/#/#rust-dresden:matrix.org).
+We will have talks, discussions and last but not least time for getting to know and talk to each other. The following talks have been scheduled:
 
-Alex Senier (@senier) and Christian Meusel (@sirhcel)
+* Formal verification with Rust (Verified System Design Automation Group, Barkhausen Institut)
+* Rust at Rohde & Schwarz (Georg Lauterbach, Rohde & Schwarz)
+* Better Rust than rest - A testimonial of writing sleek and concise backend services with Rust (Tobias Nebel, sciota GmbH)
+
+Thanks to Barkhausen Institut for providing the room and Ferrous Systems for sponsoring snacks and drinks to keep our heads energized all evening long. And of course thanks to everyone else who made this possible!
+
+Please regiser [here](https://pretix.eu/rust-dresden/on-location-1/). If you've got questions, don't hesitate to ask in our Matrix chat [#rust-dresden:matrix.org](https://matrix.to/#/#rust-dresden:matrix.org).
+
+We're looking forward to seeing you!
+
+Alex (@senier) and Christian (@sirhcel)
