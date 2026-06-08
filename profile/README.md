@@ -12,7 +12,7 @@ More details to follow soon.
 
 Thanks Prof. Dr.-Ing. Mario Neugebauer from the chair of Practical Informatics/Portable Adaptive Systems and HTW Dresden for providing the room! And of course thanks to everyone else who made this possible!
 
-Please regiser [here](https://pretix.eu/rust-dresden/on-location-2/). If you've got questions, don't hesitate to ask in our Matrix chat [#rust-dresden:matrix.org](https://matrix.to/#/#rust-dresden:matrix.org).
+Please register [here](https://pretix.eu/rust-dresden/on-location-2/). If you've got questions, don't hesitate to ask in our Matrix chat [#rust-dresden:matrix.org](https://matrix.to/#/#rust-dresden:matrix.org).
 
 We're looking forward to seeing you!
 
@@ -33,7 +33,7 @@ We will have talks, discussions and last but not least time for getting to know 
 
 Thanks to Barkhausen Institut for providing the room and Ferrous Systems for sponsoring snacks and drinks to keep our heads energized all evening long. And of course thanks to everyone else who made this possible!
 
-Please regiser [here](https://pretix.eu/rust-dresden/on-location-1/). If you've got questions, don't hesitate to ask in our Matrix chat [#rust-dresden:matrix.org](https://matrix.to/#/#rust-dresden:matrix.org).
+Please register [here](https://pretix.eu/rust-dresden/on-location-1/). If you've got questions, don't hesitate to ask in our Matrix chat [#rust-dresden:matrix.org](https://matrix.to/#/#rust-dresden:matrix.org).
 
 We're looking forward to seeing you!
 
