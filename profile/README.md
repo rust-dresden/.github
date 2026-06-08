@@ -10,6 +10,10 @@ The second Rust Dresden meetup will take place on Thursday, 2026-06-18:
 
 More details to follow soon.
 
+Thanks Prof. Dr.-Ing. Mario Neugebauer from the chair of Practical Informatics/Portable Adaptive Systems and HTW Dresden for providing the room! And of course thanks to everyone else who made this possible!
+
+Please regiser [here](https://pretix.eu/rust-dresden/on-location-2/). If you've got questions, don't hesitate to ask in our Matrix chat [#rust-dresden:matrix.org](https://matrix.to/#/#rust-dresden:matrix.org).
+
 We're looking forward to seeing you!
 
 Alex (@senier) and Christian (@sirhcel)
