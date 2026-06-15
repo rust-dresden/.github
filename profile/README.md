@@ -8,7 +8,10 @@ The second Rust Dresden meetup will take place on Thursday, 2026-06-18:
 * 18:00 - 21:00 CEST.
 * At Hochschule für Technik und Wirtschaft Dresden, Friedrich-List-Platz 1, 01069 Dresden, Room Z107 (see their [directions](https://www.htw-dresden.de/en/university/contact-and-approach/directions-and-campus-maps) on how to get there)
 
-More details to follow soon.
+We will have talks, discussions and last but not least time for getting to know and talk to each other. The following talks have been scheduled:
+
+* Rust and OS-Development (Philipp Schuster)
+* Oxidizing Step by Step - Refactor and extend existing (bare-metal) C applications with Rust (Christian Meusel)
 
 Thanks Prof. Dr.-Ing. Mario Neugebauer from the chair of Practical Informatics/Portable Adaptive Systems and HTW Dresden for providing the room! And of course thanks to everyone else who made this possible!
 
