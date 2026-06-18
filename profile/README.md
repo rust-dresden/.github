@@ -7,6 +7,7 @@ The second Rust Dresden meetup will take place on Thursday, 2026-06-18:
 * June 18th 2026
 * 18:00 - 21:00 CEST.
 * At Hochschule für Technik und Wirtschaft Dresden, Friedrich-List-Platz 1, 01069 Dresden, Room Z107 (see their [directions](https://www.htw-dresden.de/en/university/contact-and-approach/directions-and-campus-maps) on how to get there)
+* Drinks and pizza will be available (thanks [Christian Meusel](https://christian-meusel.de/) for sponsoring)
 
 We will have talks, discussions and last but not least time for getting to know and talk to each other. The following talks have been scheduled:
 
