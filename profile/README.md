@@ -1,22 +1,15 @@
-## Hello and welcome! 👋
+## Hello and welcome! 👋🍻
 
-### Meetup #2
+### Meetup #3 - Stammtisch Edition
 
-The second Rust Dresden meetup will take place on Thursday, 2026-06-18:
+The third Rust Dresden meetup will take place on Wednesday, 2026-08-26:
 
-* June 18th 2026
-* 18:00 - 21:00 CEST.
-* At Hochschule für Technik und Wirtschaft Dresden, Friedrich-List-Platz 1, 01069 Dresden, Room Z107 (see their [directions](https://www.htw-dresden.de/en/university/contact-and-approach/directions-and-campus-maps) on how to get there)
-* Drinks and pizza will be available (thanks [Christian Meusel](https://christian-meusel.de/) for sponsoring)
+* 18:00 CEST.
+* Fährgarten Johannstadt, Käthe-Kollwitz-Ufer 23b, 01307 Dresden ([directions](https://www.faehrgarten.de/?page=anfahrt))
 
-We will have talks, discussions and last but not least time for getting to know and talk to each other. The following talks have been scheduled:
+No talks, no slides - just chatting and having drinks and snacks together.
 
-* Rust and OS-Development (Philipp Schuster)
-* Oxidizing Step by Step - Refactor and extend existing (bare-metal) C applications with Rust (Christian Meusel)
-
-Thanks Prof. Dr.-Ing. Mario Neugebauer from the chair of Practical Informatics/Portable Adaptive Systems and HTW Dresden for providing the room! And of course thanks to everyone else who made this possible!
-
-Please register [here](https://pretix.eu/rust-dresden/on-location-2/). If you've got questions, don't hesitate to ask in our Matrix chat [#rust-dresden:matrix.org](https://matrix.to/#/#rust-dresden:matrix.org).
+Please register [here](https://pretix.eu/rust-dresden/on-location-3/). If you've got questions, don't hesitate to ask in our Matrix chat [#rust-dresden:matrix.org](https://matrix.to/#/#rust-dresden:matrix.org).
 
 We're looking forward to seeing you!
 
