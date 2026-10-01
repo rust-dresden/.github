@@ -1,20 +1,17 @@
-## Hello and welcome! 👋🍻
+## Hello and welcome! 👋
 
-### Meetup #3 - Stammtisch Edition
+### Meetup #4
 
-The third Rust Dresden meetup will take place on Wednesday, 2026-08-26:
+The fourth Rust Dresden meetup will take place on Tuesday, 2026-12-08:
 
 * 18:00 CEST.
-* Fährgarten Johannstadt, Käthe-Kollwitz-Ufer 23b, 01307 Dresden ([directions](https://www.faehrgarten.de/?page=anfahrt))
+* Rohde & Schwarz GmbH & Co. KG (4th Floor), Hertha-Lindner-Strasse 17, 01067 Dresden
 
-No talks, no slides - just chatting and having drinks and snacks together.
-
-Please register [here](https://pretix.eu/rust-dresden/on-location-3/). If you've got questions, don't hesitate to ask in our Matrix chat [#rust-dresden:matrix.org](https://matrix.to/#/#rust-dresden:matrix.org).
+Details will follow in due time. If you've got questions, don't hesitate to ask in our Matrix chat [#rust-dresden:matrix.org](https://matrix.to/#/#rust-dresden:matrix.org).
 
 We're looking forward to seeing you!
 
 Alex (@senier) and Christian (@sirhcel)
-
 
 ### Past Events
 
